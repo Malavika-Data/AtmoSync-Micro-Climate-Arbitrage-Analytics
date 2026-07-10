@@ -1,4 +1,4 @@
-🥑🍓 AtmoSync-Micro-Climate-Arbitrage-Analytics
+🥑🍓🍇 AtmoSync — Micro-Climate Arbitrage Analytics
 
 My Team Members : Mameeth C Aparna V Malavika Nair Lucky Aswal 
 
