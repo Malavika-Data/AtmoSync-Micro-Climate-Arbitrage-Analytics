@@ -7,89 +7,77 @@ Infotact Data Analytics Project | Week 1 Report
 Real-time IoT sensor analytics to detect in-transit commodity spoilage and identify profitable reroute ("arbitrage") opportunities before goods degrade below quality thresholds.
 
 
-✅ Week 1 — What I Did
+✅Week 1: Data Cleaning & Preprocessing
 
-#	Task	Status
+📌 Project Overview
 
-1	Defined the dataset schema based on the problem statement (sensor + logistics + pricing fields)	✅ Done
+AtmoSync is an IoT-based analytics project designed to monitor refrigerated shipping containers using sensor data. The objective is to prepare high-quality data for spoilage risk prediction and logistics analysis by performing data cleaning, validation, and exploratory analysis.
 
-2	Generated a realistic 50,000-row synthetic IoT dataset (550 containers × ~91 readings each) using Python	✅ Done
+🎯 Week 1 Objectives
 
-3	Loaded and inspected the dataset in pandas (shape, dtypes, info(), describe())	✅ Done
+Import and explore the IoT sensor dataset
 
-4	Performed a full 9-step data cleaning process (missing values, duplicates, data types, business-rule validation, outlier flagging)	✅ Done
+Perform data quality assessment
 
-5	Ran exploratory data analysis (EDA) — risk distribution, correlation analysis, commodity comparison	✅ Done
+Handle missing values and duplicate records
 
-6	Identified root cause of spoilage (temperature drift from faulty cooling units) using correlation analysis	✅ Done
+Convert appropriate columns to correct data types
 
-7	Quantified financial impact of at-risk cargo and rerouting opportunities	✅ Done
+Standardize text fields
 
-8	Documented findings in stakeholder-ready PDF reports	✅ Done
+Validate business rules
 
-🗂️ Dataset Summary
+Generate basic visualizations
 
-Property	Value
+Export a cleaned dataset for further analysis
 
-Total sensor readings	50,000
+🛠 Technologies Used
 
-Containers tracked	550
+Python
 
-Commodities covered	Avocado, Banana, Mango, Strawberry, Tomato, Grapes, Blueberry
+Pandas
 
-Reading frequency	Every 30 minutes across a ~50-hour transit journey
+Matplotlib
 
-Time span	Last 60 days
+Jupyter Notebook
 
-Data completeness	100% (0 missing values)
+📂 Dataset Features
 
-Duplicate records	0
+The dataset contains information related to:
 
-Key columns:
+Container Details
 
-Sensor data: temperature_c, humidity_pct, vibration_g
+Commodity Information
 
-Derived health metrics: quality_score, temp_deviation_c, shelf_life_hours_remaining
+Temperature & Humidity Sensors
 
-Logistics: origin_port, primary_market, secondary_market, distance_primary_km, distance_secondary_km
+Transit Details
 
-Financials: primary_price_per_kg_usd, secondary_price_per_kg_usd, arbitrage_gain_usd
+Shelf Life
 
-Decision output: risk_status (Normal / Watch / At-Risk / Critical), recommended_action
+Quality Score
 
-Data Cleaning Process (Python / pandas)
- 
-All 9 steps were run against the raw dataset before analysis:
+Market Prices
 
-<img width="876" height="810" alt="image" src="https://github.com/user-attachments/assets/a2a23268-c0e4-4522-979a-529e33e16c10" />
+Risk Status
 
-Cleaning results:
+Recommended Actions
 
-<img width="1071" height="360" alt="image" src="https://github.com/user-attachments/assets/edcdcee0-1df3-49bf-8aab-7428137aac3f" />
+📊 Visualizations Included
 
-Design decision: Outlier sensor readings were flagged, not deleted. In this dataset, an unusual reading is the spoilage signal the business needs — deleting it would hide the exact problem the project exists to detect.
+Temperature Distribution
 
-📊 Key Findings (Week 1 EDA)
+Risk Status Analysis
 
-83% of containers are currently Normal; 13% (74 containers) are At-Risk or Critical and need a routing decision.
+Top Commodities
 
-Temperature deviation has a strong negative correlation with quality score (r = -0.84) — it's the single biggest driver of spoilage, far more than humidity or vibration.
+Temperature vs Humidity Scatter Plot
 
-Faulty cooling units (18.5% of containers) are the root cause of nearly all serious spoilage: average quality score of 40.5 vs. 96.6 for healthy units.
+📁 Output
 
-Strawberries, grapes, and blueberries are the most climate-sensitive commodities; tomatoes are the most forgiving.
+The cleaned dataset is exported as:
 
-$538,693 worth of cargo is currently tied up in At-Risk/Critical containers; rerouting the right containers now would capture an estimated $120,533 in additional value.
-
-(Full analysis with charts: see /reports/AtmoSync_Data_Findings_Report.pdf)
-
-🛠️ Tools Used
-
-<img width="702" height="362" alt="image" src="https://github.com/user-attachments/assets/99490d21-2c64-4b2e-a737-247c7b90dc3e" />
-
-📁 Repository Structure
-
-<img width="856" height="462" alt="image" src="https://github.com/user-attachments/assets/3eaea906-02c1-4d7c-ae14-03d07de555ec" />
+cleaned_atmosync_dataset.csv
 
 🚀 How to Run This Project
 
