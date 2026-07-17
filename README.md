@@ -73,6 +73,46 @@ Top Commodities
 
 Temperature vs Humidity Scatter Plot
 
+# 📊 Exploratory Data Analysis
+
+## 1️⃣ Temperature Distribution
+
+This histogram illustrates the spread of temperature readings collected from refrigerated containers. Most readings fall within the operational range, while a few higher values may indicate potential spoilage risk.
+
+![Temperature Distribution](images/temperature_distribution.png)
+
+---
+
+## 2️⃣ Risk Status Distribution
+
+This chart displays the number of containers categorized as Low, Medium, and High risk.
+
+![Risk Status](images/risk_status.png)
+
+---
+
+## 3️⃣ Top Commodities
+
+This visualization shows the commodities that appear most frequently in the shipment dataset.
+
+![Top Commodities](images/top_commodities.png)
+
+---
+
+## 4️⃣ Temperature vs Humidity
+
+This scatter plot helps analyze the relationship between container temperature and humidity.
+
+![Temperature vs Humidity](images/temperature_vs_humidity.png)
+
+---
+
+## 5️⃣ Quality Score Distribution
+
+This chart presents how product quality scores are distributed across the dataset.
+
+![Quality Score](images/quality_score_distribution.png)
+
 📁 Output
 
 The cleaned dataset is exported as:
