@@ -79,7 +79,8 @@ Temperature vs Humidity Scatter Plot
 
 This histogram illustrates the spread of temperature readings collected from refrigerated containers. Most readings fall within the operational range, while a few higher values may indicate potential spoilage risk.
 
-![Temperature Distribution](images/temperature_distribution.png)
+<img width="927" height="581" alt="Chart Temperature Distribution" src="https://github.com/user-attachments/assets/d5c86988-0e9a-42e7-90d4-40ff2c31db22" />
+
 
 ---
 
@@ -87,7 +88,8 @@ This histogram illustrates the spread of temperature readings collected from ref
 
 This chart displays the number of containers categorized as Low, Medium, and High risk.
 
-![Risk Status](images/risk_status.png)
+<img width="777" height="527" alt="Chart Risk Status" src="https://github.com/user-attachments/assets/55269110-6d44-4ec1-9ac1-c79ed5eae94c" />
+
 
 ---
 
@@ -95,7 +97,8 @@ This chart displays the number of containers categorized as Low, Medium, and Hig
 
 This visualization shows the commodities that appear most frequently in the shipment dataset.
 
-![Top Commodities](images/top_commodities.png)
+<img width="1052" height="647" alt="Chart Top Commodities" src="https://github.com/user-attachments/assets/ca107e84-4da6-42ff-88e7-f79ac91c1992" />
+
 
 ---
 
@@ -103,15 +106,10 @@ This visualization shows the commodities that appear most frequently in the ship
 
 This scatter plot helps analyze the relationship between container temperature and humidity.
 
-![Temperature vs Humidity](images/temperature_vs_humidity.png)
+<img width="917" height="592" alt="Chart Temp vs Humidity" src="https://github.com/user-attachments/assets/d34fc147-f2db-48bd-953d-84ca77bc0748" />
+
 
 ---
-
-## 5️⃣ Quality Score Distribution
-
-This chart presents how product quality scores are distributed across the dataset.
-
-![Quality Score](images/quality_score_distribution.png)
 
 📁 Output
 
@@ -120,10 +118,6 @@ The cleaned dataset is exported as:
 cleaned_atmosync_dataset.csv
 
 🚀 How to Run This Project
-
-# Clone the repo
-git clone https://github.com/Mameeth-4015/atmosync-analytics.git
-cd atmosync-analytics
 
 # Install dependencies
 pip install pandas numpy matplotlib seaborn
