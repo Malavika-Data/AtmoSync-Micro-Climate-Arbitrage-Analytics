@@ -137,7 +137,15 @@ jupyter notebook notebooks/week1_eda_and_cleaning.ipynb
  Merge historical commodity pricing trends
  
  Begin Excel/Power BI-style dashboard mockup for stakeholder review
- 
+
+
+
+ Week 2 — Dashboard Visualizations & In-Depth Modeling
+ <img width="915" height="287" alt="image" src="https://github.com/user-attachments/assets/849c3fcd-b678-47b8-9168-094a9ed7f65d" />
+
+ 📊 Key Findings & Visual Insights (Week 2)
+
+
 
 
 
