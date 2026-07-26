@@ -144,6 +144,99 @@ jupyter notebook notebooks/week1_eda_and_cleaning.ipynb
  <img width="915" height="287" alt="image" src="https://github.com/user-attachments/assets/849c3fcd-b678-47b8-9168-094a9ed7f65d" />
 
  📊 Key Findings & Visual Insights (Week 2)
+ This dashboard was developed using Microsoft Power BI to visualize and analyze the AtmoSync IoT refrigerated container dataset. It provides interactive insights into container performance, risk levels, temperature monitoring, humidity conditions, and commodity distribution.
+
+ Dashboard Features
+ 
+📦 KPI Cards displaying:
+
+Total Containers
+
+Average Temperature
+
+Average Humidity
+
+Average Quality Score
+
+High Risk Containers
+
+Total Arbitrage Gain
+
+📊 Interactive Visualizations:
+
+Risk Status Distribution
+
+Top Commodities
+
+Temperature Trend
+
+Temperature vs Humidity
+
+Quality Score by Commodity
+
+Origin Port Analysis
+
+Cooling Unit Status
+
+🎛 Interactive Slicers:
+
+Commodity
+
+Origin Port
+
+Technologies Used
+Microsoft Power BI
+
+DAX (Data Analysis Expressions)
+
+Data Modeling
+
+Interactive Dashboards
+
+Key Insights
+
+Monitored refrigerated container performance using IoT sensor data.
+
+Compared temperature and humidity patterns across shipments.
+
+Identified high-risk containers requiring immediate attention.
+
+Analyzed commodity distribution and quality scores.
+
+Created a dynamic dashboard with interactive filtering for better decision-making.
+
+DAX Measures Used
+
+Total Containers
+
+Average Temperature
+
+Average Humidity
+
+Average Quality Score
+
+Total Arbitrage Gain
+
+Learning Outcome
+
+This project helped me gain practical experience in:
+
+Building interactive Power BI dashboards.
+
+Creating DAX measures for business metrics.
+
+Designing KPI cards and visualizations.
+
+Implementing dynamic filtering using slicers.
+
+Transforming raw IoT data into meaningful business insights.
+
+Dashboard PNG
+<img width="1332" height="757" alt="image" src="https://github.com/user-attachments/assets/d15d3c95-f92c-4395-b61c-ea0d5c66b901" />
+
+
+
+
 
 
 
