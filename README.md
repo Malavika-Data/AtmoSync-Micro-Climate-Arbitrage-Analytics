@@ -327,6 +327,19 @@ The current dashboard provides interactive analysis of the AtmoSync IoT refriger
 
 4)Expand the dashboard with advanced analytics such as trend forecasting and anomaly detection.
 
+5)Deploy the dashboard to the Power BI Service for secure online access and sharing.
+
+6)nclude GPS-based route tracking and live container location monitoring.
+
+7)Connect the dashboard to cloud databases for automatic data updates.
+
+8)Add role-based access and customized dashboards for logistics managers and warehouse operators.
+
+9)Improve dashboard performance with optimized data models and additional DAX measures.
+
+10)Enhance the user interface with advanced navigation, drill-through reports, and custom tooltips.
+
+
 
 
 Dashboard PNG
