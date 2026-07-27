@@ -290,7 +290,11 @@ The Power BI dashboard transformed the cleaned AtmoSync IoT dataset into an inte
 
 1)Monitored key performance indicators such as average temperature, humidity, quality score, and total containers.
 
-2)
+2)Identified high-risk refrigerated containers requiring immediate operational attention.
+
+3)Compared commodity performance based on quality scores and shipment frequency.
+
+
 Dashboard PNG
 <img width="1332" height="757" alt="image" src="https://github.com/user-attachments/assets/d15d3c95-f92c-4395-b61c-ea0d5c66b901" />
 
