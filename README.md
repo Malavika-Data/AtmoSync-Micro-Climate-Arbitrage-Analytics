@@ -319,7 +319,13 @@ During Week 2, I gained practical experience in developing an interactive busine
 
 🚀 Future Improvements
 The current dashboard provides interactive analysis of the AtmoSync IoT refrigerated container dataset. In future versions, the project can be enhanced with the following features:
-1)
+1)Integrate real-time IoT sensor data for live monitoring of refrigerated containers.
+
+2)Develop machine learning models to predict spoilage risk before it occurs.
+
+3)Add automated alerts and notifications for abnormal temperature or humidity levels.
+
+4)Expand the dashboard with advanced analytics such as trend forecasting and anomaly detection.
 
 
 
