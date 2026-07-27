@@ -142,7 +142,13 @@ During the exploratory data analysis of the AtmoSync IoT sensor dataset, several
 
 2)Identified high-risk containers that may require immediate attention to prevent spoilage.
 
-3)
+3)Analyzed the distribution of transported commodities to understand shipment patterns.
+
+4)Evaluated product quality scores to assess the overall condition of transported goods.
+
+5)Observed temperature and humidity trends that support better cold chain monitoring.
+
+6)Generated clean and reliable data for building interactive dashboards and future predictive analysis
 
 📁 Output
 
