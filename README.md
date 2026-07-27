@@ -6,6 +6,32 @@ Infotact Data Analytics Project | Week 1 Report
 
 Real-time IoT sensor analytics to detect in-transit commodity spoilage and identify profitable reroute ("arbitrage") opportunities before goods degrade below quality thresholds.
 
+## 📁 Dataset Description
+
+The AtmoSync dataset contains IoT sensor readings collected from refrigerated shipping containers transporting perishable commodities. The dataset includes environmental conditions, shipment details, quality metrics, and operational information used to monitor cold chain performance.
+
+### Key Attributes
+
+- Container ID
+  
+- Timestamp
+  
+- Commodity
+  
+- Temperature
+  
+- Humidity
+  
+- Quality Score
+  
+- Risk Status
+  
+- Origin Port
+ 
+- Cooling Unit Status
+ 
+- Arbitrage Gain
+
 
 ✅Week 1: Data Cleaning & Preprocessing
 
