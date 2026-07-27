@@ -300,6 +300,23 @@ The Power BI dashboard transformed the cleaned AtmoSync IoT dataset into an inte
 
 6)Improved decision-making by presenting real-time insights through dynamic visualizations and KPI cards.
 
+🎓 Learning Outcomes (Week 2)
+During Week 2, I gained practical experience in developing an interactive business intelligence dashboard using Microsoft Power BI. The major learning outcomes include:
+
+1)Learned to import and model cleaned datasets in Power BI.
+
+2)Created DAX measures to calculate business KPIs dynamically.
+
+3)Designed interactive KPI cards and multiple visualization types.
+
+4)Implemented slicers to enable dynamic filtering across all dashboard visuals.
+
+5)Understood dashboard design principles, including layout, formatting, and user-friendly visualization.
+
+6)Improved skills in business intelligence, data storytelling, and dashboard development.
+
+7)Enhanced my ability to transform analytical results into meaningful business insights for decision-making.
+
 
 
 
