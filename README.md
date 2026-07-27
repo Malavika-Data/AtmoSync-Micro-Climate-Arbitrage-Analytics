@@ -32,6 +32,17 @@ The AtmoSync dataset contains IoT sensor readings collected from refrigerated sh
  
 - Arbitrage Gain
 
+  ## 🔄 Project Workflow
+
+```mermaid
+flowchart LR
+    A[IoT Sensor Dataset] --> B[Data Cleaning & Preprocessing]
+    B --> C[Exploratory Data Analysis]
+    C --> D[Power BI Dashboard]
+    D --> E[Business Insights]
+    E --> F[Decision Making]
+```
+
 
 ✅Week 1: Data Cleaning & Preprocessing
 
