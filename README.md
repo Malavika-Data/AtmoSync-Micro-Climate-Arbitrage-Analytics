@@ -294,6 +294,14 @@ The Power BI dashboard transformed the cleaned AtmoSync IoT dataset into an inte
 
 3)Compared commodity performance based on quality scores and shipment frequency.
 
+4)Evaluated shipment distribution across origin ports for operational planning.
+
+5)Enabled interactive filtering through slicers, allowing users to explore data by commodity, risk status, and location
+
+6)Improved decision-making by presenting real-time insights through dynamic visualizations and KPI cards.
+
+
+
 
 Dashboard PNG
 <img width="1332" height="757" alt="image" src="https://github.com/user-attachments/assets/d15d3c95-f92c-4395-b61c-ea0d5c66b901" />
