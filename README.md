@@ -150,6 +150,21 @@ During the exploratory data analysis of the AtmoSync IoT sensor dataset, several
 
 6)Generated clean and reliable data for building interactive dashboards and future predictive analysis
 
+🎓 Learning Outcomes
+Week 1 of the AtmoSync project provided practical experience in data preprocessing and exploratory data analysis. The key learning outcomes include:
+
+1)Learned how to import and explore real-world IoT datasets using Python.
+
+2)Performed data cleaning by checking missing values, duplicate records, and correcting data types.
+
+3)Applied data preprocessing techniques to improve data quality and consistency.
+
+4)Created meaningful visualizations to identify trends and patterns in the dataset.
+
+5)Understood the importance of data validation before analysis and dashboard development.
+
+6)Improved proficiency in Python, Pandas, Matplotlib, Jupyter Notebook, and GitHub for documenting and managing project work.
+
 📁 Output
 
 The cleaned dataset is exported as:
