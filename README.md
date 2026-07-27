@@ -134,8 +134,15 @@ This scatter plot helps analyze the relationship between container temperature a
 
 <img width="917" height="592" alt="Chart Temp vs Humidity" src="https://github.com/user-attachments/assets/d34fc147-f2db-48bd-953d-84ca77bc0748" />
 
+💡 Business Insights
 
----
+During the exploratory data analysis of the AtmoSync IoT sensor dataset, several valuable business insights were identified:
+
+1)Monitored refrigerated container conditions using temperature and humidity sensor data.
+
+2)Identified high-risk containers that may require immediate attention to prevent spoilage.
+
+3)
 
 📁 Output
 
