@@ -317,6 +317,9 @@ During Week 2, I gained practical experience in developing an interactive busine
 
 7)Enhanced my ability to transform analytical results into meaningful business insights for decision-making.
 
+🚀 Future Improvements
+The current dashboard provides interactive analysis of the AtmoSync IoT refrigerated container dataset. In future versions, the project can be enhanced with the following features:
+1)
 
 
 
