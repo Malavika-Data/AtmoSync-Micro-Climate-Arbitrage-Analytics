@@ -64,6 +64,20 @@ flowchart TD
     E --> F
 ```
 
+3️⃣ Data Analytics Lifecycle
+## 📈 Data Analytics Lifecycle
+
+```mermaid
+graph LR
+A[Collect Data]
+B[Clean Data]
+C[Analyze Data]
+D[Visualize Data]
+E[Generate Insights]
+
+A --> B --> C --> D --> E
+```
+
 
 ✅Week 1: Data Cleaning & Preprocessing
 
