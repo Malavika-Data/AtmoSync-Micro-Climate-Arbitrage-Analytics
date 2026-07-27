@@ -43,6 +43,27 @@ flowchart LR
     E --> F[Decision Making]
 ```
 
+2️⃣ Dashboard Architecture
+## 🏗 Dashboard Architecture
+
+```mermaid
+flowchart TD
+    A[Cleaned CSV Dataset]
+    B[Power BI]
+    C[KPI Cards]
+    D[Charts]
+    E[Slicers]
+    F[Business Insights]
+
+    A --> B
+    B --> C
+    B --> D
+    B --> E
+    C --> F
+    D --> F
+    E --> F
+```
+
 
 ✅Week 1: Data Cleaning & Preprocessing
 
