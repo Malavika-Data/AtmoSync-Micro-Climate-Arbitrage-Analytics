@@ -285,6 +285,12 @@ Implementing dynamic filtering using slicers.
 
 Transforming raw IoT data into meaningful business insights.
 
+💡 Business Insights (Week 2)
+The Power BI dashboard transformed the cleaned AtmoSync IoT dataset into an interactive business intelligence solution. Key insights include:
+
+1)Monitored key performance indicators such as average temperature, humidity, quality score, and total containers.
+
+2)
 Dashboard PNG
 <img width="1332" height="757" alt="image" src="https://github.com/user-attachments/assets/d15d3c95-f92c-4395-b61c-ea0d5c66b901" />
 
