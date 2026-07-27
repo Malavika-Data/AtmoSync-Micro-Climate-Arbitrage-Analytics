@@ -43,6 +43,22 @@ flowchart LR
     E --> F[Decision Making]
 ```
 
+## 📅 Project Timeline
+
+```mermaid
+timeline
+    title AtmoSync Internship Progress
+
+    Week 1 : Dataset Exploration
+            : Data Cleaning
+            : Exploratory Data Analysis
+
+    Week 2 : Power BI Dashboard
+            : DAX Measures
+            : Interactive Visualizations
+```
+
+
 2️⃣ Dashboard Architecture
 ## 🏗 Dashboard Architecture
 
