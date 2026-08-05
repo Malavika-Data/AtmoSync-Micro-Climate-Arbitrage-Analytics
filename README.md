@@ -432,6 +432,46 @@ Added business-oriented visual elements to improve data interpretation.
 
 Reviewed dashboard visuals to ensure accurate representation of refrigerated container performance.
 
+📊 Dashboard Enhancements
+
+The dashboard now provides a more intuitive interface for monitoring:
+
+📦 Total Containers
+
+🌡 Average Temperature
+
+💧 Average Humidity
+
+⭐ Average Quality Score
+
+💰 Total Arbitrage Gain
+
+🚢 Commodity Distribution
+
+📍 Origin Port Analysis
+
+📈 Monthly Temperature Trend
+
+⚠ Risk Status Distribution
+
+💡 Business Insights
+
+The enhanced dashboard allows users to:
+
+Monitor refrigerated container performance more effectively
+.
+Analyze commodity-wise shipment distribution.
+
+Compare quality scores across different commodities.
+
+Observe temperature trends over time.
+
+Filter data dynamically using interactive slicers.
+
+Support operational decision-making through clear visual analytics.
+
+
+
 
 
 
