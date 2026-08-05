@@ -409,6 +409,32 @@ Dashboard PNG
 
 
 
+📅 Week 3 Progress
+
+🚀 Overview
+
+During Week 3, I focused on enhancing the AtmoSync Power BI dashboard by improving its design, interactivity, and usability. The dashboard was refined to present business insights more effectively while providing a cleaner and more user-friendly experience.
+
+✅ Work Completed
+Improved the overall dashboard layout and visual consistency.
+
+Enhanced KPI cards with better formatting and clear business metrics.
+
+Updated chart titles for improved readability.
+
+Refined dashboard alignment, spacing, and formatting.
+
+Enhanced slicers to provide a better interactive filtering experience.
+
+Improved dashboard aesthetics using consistent colors, fonts, and styling.
+
+Added business-oriented visual elements to improve data interpretation.
+
+Reviewed dashboard visuals to ensure accurate representation of refrigerated container performance.
+
+
+
+
 
 
 
