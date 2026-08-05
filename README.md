@@ -1,10 +1,12 @@
-<h1 align="center">🥑🍓🍇 AtmoSync</h1>
+<div align="center">
 
-<h2 align="center">Micro-Climate Arbitrage Analytics</h2>
+# 🥑🍓🍇 AtmoSync
 
-### 📊 IoT Cold Chain Monitoring & Business Intelligence Dashboard
+### Micro-Climate Arbitrage Analytics
 
-*An end-to-end data analytics project using Python, Power BI, and GitHub.*
+*IoT Cold Chain Monitoring & Business Intelligence Dashboard*
+
+</div>
 
 My Team Members : Mameeth C Aparna V Malavika Nair Lucky Aswal 
 
