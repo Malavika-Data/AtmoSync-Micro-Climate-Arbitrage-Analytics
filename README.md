@@ -1,4 +1,6 @@
-# 🥑🍓🍇 AtmoSync — Micro-Climate Arbitrage Analytics
+<h1 align="center">🥑🍓🍇 AtmoSync</h1>
+
+<h2 align="center">Micro-Climate Arbitrage Analytics</h2>
 
 ### 📊 IoT Cold Chain Monitoring & Business Intelligence Dashboard
 
