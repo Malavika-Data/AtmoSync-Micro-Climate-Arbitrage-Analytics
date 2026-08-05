@@ -1,4 +1,8 @@
-#🥑🍓🍇#AtmoSync — Micro-Climate Arbitrage Analytics
+# 🥑🍓🍇 AtmoSync — Micro-Climate Arbitrage Analytics
+
+### 📊 IoT Cold Chain Monitoring & Business Intelligence Dashboard
+
+*An end-to-end data analytics project using Python, Power BI, and GitHub.*
 
 My Team Members : Mameeth C Aparna V Malavika Nair Lucky Aswal 
 
