@@ -1,4 +1,4 @@
-🥑🍓🍇 AtmoSync — Micro-Climate Arbitrage Analytics
+**#🥑🍓🍇 AtmoSync — Micro-Climate Arbitrage Analytics**
 
 My Team Members : Mameeth C Aparna V Malavika Nair Lucky Aswal 
 
@@ -95,13 +95,13 @@ A --> B --> C --> D --> E
 ```
 
 
-✅Week 1: Data Cleaning & Preprocessing
+#✅Week 1: Data Cleaning & Preprocessing
 
-📌 Project Overview
+##📌 Project Overview
 
 AtmoSync is an IoT-based analytics project designed to monitor refrigerated shipping containers using sensor data. The objective is to prepare high-quality data for spoilage risk prediction and logistics analysis by performing data cleaning, validation, and exploratory analysis.
 
-🎯 Week 1 Objectives
+##🎯 Week 1 Objectives
 
 Import and explore the IoT sensor dataset
 
@@ -129,7 +129,7 @@ Matplotlib
 
 Jupyter Notebook
 
-📂 Dataset Features
+#📂 Dataset Features
 
 The dataset contains information related to:
 
@@ -196,7 +196,7 @@ This scatter plot helps analyze the relationship between container temperature a
 
 <img width="917" height="592" alt="Chart Temp vs Humidity" src="https://github.com/user-attachments/assets/d34fc147-f2db-48bd-953d-84ca77bc0748" />
 
-💡 Business Insights
+#💡 Business Insights
 
 During the exploratory data analysis of the AtmoSync IoT sensor dataset, several valuable business insights were identified:
 
@@ -212,7 +212,7 @@ During the exploratory data analysis of the AtmoSync IoT sensor dataset, several
 
 6)Generated clean and reliable data for building interactive dashboards and future predictive analysis
 
-🎓 Learning Outcomes
+#🎓 Learning Outcomes
 Week 1 of the AtmoSync project provided practical experience in data preprocessing and exploratory data analysis. The key learning outcomes include:
 
 1)Learned how to import and explore real-world IoT datasets using Python.
@@ -409,13 +409,13 @@ Dashboard PNG
 
 
 
-📅 Week 3 Progress
+#📅 Week 3 Progress
 
-🚀 Overview
+##🚀 Overview
 
 During Week 3, I focused on enhancing the AtmoSync Power BI dashboard by improving its design, interactivity, and usability. The dashboard was refined to present business insights more effectively while providing a cleaner and more user-friendly experience.
 
-✅ Work Completed
+##✅ Work Completed
 Improved the overall dashboard layout and visual consistency.
 
 Enhanced KPI cards with better formatting and clear business metrics.
@@ -432,7 +432,7 @@ Added business-oriented visual elements to improve data interpretation.
 
 Reviewed dashboard visuals to ensure accurate representation of refrigerated container performance.
 
-📊 Dashboard Enhancements
+##📊 Dashboard Enhancements
 
 The dashboard now provides a more intuitive interface for monitoring:
 
@@ -454,7 +454,7 @@ The dashboard now provides a more intuitive interface for monitoring:
 
 ⚠ Risk Status Distribution
 
-💡 Business Insights
+#💡 Business Insights
 
 The enhanced dashboard allows users to:
 
