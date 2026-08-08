@@ -581,6 +581,127 @@ Expanding the dashboard with additional operational metrics.
 
 
 
+# 📅 Week 4 Progress
+
+## 🚀 Overview
+
+During Week 4, I focused on finalizing the AtmoSync project by improving the Power BI dashboard, validating the implemented visuals and measures, and completing the project documentation. The main focus was on making the dashboard more interactive, organized, and presentation-ready.
+
+## ✅ Work Completed
+
+- Finalized the Power BI dashboard layout and visual organization.
+- 
+- Reviewed and refined KPI cards and dashboard visuals.
+- 
+- Added navigation between the Main Dashboard and Business Insights pages.
+- 
+- Tested interactive slicers and dashboard filtering.
+- 
+- Reviewed DAX measures and KPI calculations for consistency.
+- 
+- Finalized the Business Insights page with risk analysis and container-level details.
+- 
+- Improved the readability of tables and visual elements.
+- 
+- Added final dashboard screenshots to the GitHub repository.
+- 
+- Updated the README with project progress, insights, learning outcomes, and future improvements.
+- 
+- Reviewed the complete workflow from data cleaning and EDA to Power BI visualization.
+
+## 🔗 Dashboard Navigation
+
+The Power BI report was organized into two main sections:
+
+- 🏠 **Main Dashboard** – Provides an overall view of container performance and shipment conditions.
+- 
+- 📊 **Business Insights** – Provides detailed risk analysis, advanced KPIs, and container-level monitoring.
+- 
+
+Navigation between the pages was added to provide a smoother user experience.
+
+## 🔍 Validation & Testing
+
+The completed dashboard was reviewed to ensure:
+
+- KPI values are displayed correctly.
+- 
+- DAX measures provide meaningful results.
+- 
+- Slicers interact correctly with the visuals.
+- 
+- Risk categories are represented clearly.
+- 
+- Tables display relevant container information.
+- 
+- Dashboard visuals are consistent and easy to understand.
+
+## 💡 Final Business Insights
+
+The final dashboard provides an interactive view of refrigerated container conditions and risk levels. Users can monitor container health, identify Critical and At-Risk containers, analyze risk distribution across commodities, and review temperature, humidity, and quality-score information.
+
+These insights can support better monitoring of refrigerated shipments and help identify containers that may require additional attention.
+
+## 🎓 Learning Outcomes
+
+During Week 4, I strengthened my practical knowledge of:
+
+- Power BI dashboard finalization
+- 
+- DAX-based KPI analysis
+- 
+- Interactive dashboard design
+- 
+- Data validation and testing
+- 
+- Business insight generation
+- 
+- Dashboard documentation
+- 
+- GitHub repository management
+- 
+- Presenting an end-to-end data analytics project
+
+## 📚 Project Documentation
+
+The GitHub repository was updated with:
+
+- Python data-cleaning notebook
+- 
+- EDA visualizations
+- 
+- Power BI dashboard screenshots
+- 
+- Business insights
+- 
+- Weekly progress updates
+- 
+- Learning outcomes
+- 
+- Future improvements
+- 
+- Project documentation
+
+## 🔮 Future Improvements
+
+Future development of AtmoSync can include:
+
+- Real-time IoT sensor integration
+- 
+- Automated spoilage-risk alerts
+- 
+- Machine learning-based spoilage prediction
+- 
+- Predictive risk forecasting
+- 
+- Automated Power BI data refresh
+- 
+- Integration with live logistics and shipment data
+
+- 
+
+
+
 
 
 
