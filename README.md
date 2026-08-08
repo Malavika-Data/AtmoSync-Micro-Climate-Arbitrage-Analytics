@@ -478,6 +478,107 @@ Filter data dynamically using interactive slicers.
 
 Support operational decision-making through clear visual analytics.
 
+#Formatted Dashboard
+<img width="1326" height="747" alt="Formatted Dashboard" src="https://github.com/user-attachments/assets/7878d23b-9af5-44b0-90ce-4035b2b5830d" />
+
+:
+
+📈 Advanced KPI Analysis
+
+During Week 3, additional KPI measures were created in Power BI to provide deeper insights into container risk and overall cold-chain performance.
+
+The following measures were added:
+
+🚨 Critical Containers – identifies the number of unique containers classified as Critical.
+
+⚠️ At-Risk Containers – identifies unique containers requiring closer monitoring.
+
+📊 High Risk Containers % – shows the percentage of containers classified as Critical.
+
+🟢 Container Health % – represents the percentage of containers classified as Normal.
+
+These KPIs provide a quick overview of the current risk and health status of the refrigerated container network.
+
+📊 Business Insights Dashboard
+
+A separate Business Insights page was created in Power BI to provide a more focused view of the analytical results.
+
+The page includes:
+
+📌 Advanced KPI cards
+
+📊 Risk Distribution by Commodity
+
+📋 Container Monitoring Details
+
+📋 Container Monitoring Details
+
+A detailed table was added to display individual container-level information, including:
+
+Container ID
+
+Commodity
+
+Temperature
+
+Humidity
+
+Quality Score
+
+Risk Status
+
+This allows users to examine individual sensor records and understand the conditions associated with different risk levels.
+
+🎨 Conditional Formatting
+
+Conditional formatting was applied to improve the readability of the monitoring table.
+
+Quality scores were visually highlighted based on their values.
+
+Risk statuses were differentiated using appropriate visual indicators.
+
+Critical and At-Risk conditions can therefore be identified more quickly.
+
+This improves the dashboard's usability and helps users focus on containers that may require attention.
+
+🎓 Learning Outcomes
+
+During Week 3, I gained practical experience in:
+
+Creating advanced KPI measures using DAX.
+
+Using DISTINCTCOUNT to identify unique containers.
+
+Developing interactive Power BI dashboards.
+
+Creating business-focused visualizations.
+
+Applying conditional formatting.
+
+Designing detailed monitoring tables.
+
+Improving dashboard usability and visual presentation.
+
+Converting analytical results into meaningful business insights.
+
+🚀 Future Improvements
+
+The following improvements can be considered in future development:
+
+Integrating real-time IoT sensor data.
+
+Developing automated spoilage-risk alerts.
+
+Adding predictive analytics for container risk.
+
+Implementing machine learning-based spoilage prediction.
+
+Adding real-time dashboard refresh.
+
+Expanding the dashboard with additional operational metrics.
+
+<img width="1310" height="740" alt="Business Insights" src="https://github.com/user-attachments/assets/8ad1775d-1fd8-4181-89c9-64734073da40" />
+
 
 
 
