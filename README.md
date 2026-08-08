@@ -415,6 +415,18 @@ The current dashboard provides interactive analysis of the AtmoSync IoT refriger
 Dashboard PNG
 <img width="1332" height="757" alt="image" src="https://github.com/user-attachments/assets/d15d3c95-f92c-4395-b61c-ea0d5c66b901" />
 
+#Power BI Dashboard Structure
+
+             📊 AtmoSync Power BI
+                     │
+          ┌──────────┴──────────┐
+          ↓                     ↓
+   🏠 Main Dashboard      📈 Business Insights
+          │                     │
+     ┌────┼────┐          ┌─────┼─────┐
+     ↓    ↓    ↓          ↓     ↓     ↓
+    KPIs Charts Slicers  KPIs  Risk  Table
+
 
 
 #📅 Week 3 Progress
@@ -701,8 +713,11 @@ Future development of AtmoSync can include:
 ## ⚠️ Risk Analysis Framework
 
   🌡 Temperature
+  
 💧 Humidity
+
 ⭐ Quality Score
+
 📦 Commodity
         ↓
    Risk Analysis
@@ -717,6 +732,8 @@ Future development of AtmoSync can include:
 └─────────────────────┘
         ↓
 ⚠️ Monitoring & Business Decision
+
+
 
 
 
