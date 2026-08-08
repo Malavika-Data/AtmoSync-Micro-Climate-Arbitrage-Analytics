@@ -102,6 +102,35 @@ E[Generate Insights]
 A --> B --> C --> D --> E
 ```
 
+## AtmoSync System Architecture
+
+             📡 IoT Sensor Data
+             
+                    │
+                    ↓
+             📄 Raw CSV Dataset
+                    │
+                    ↓
+          🐍 Python / Pandas
+          Data Cleaning & EDA
+                    │
+                    ↓
+             📊 Clean Dataset
+                    │
+                    ↓
+              📈 Power BI
+          ┌─────────┴─────────┐
+          ↓                   ↓
+     Main Dashboard     Business Insights
+          │                   │
+          ↓                   ↓
+       KPIs              Risk Analysis
+       Charts            Monitoring Table
+          └─────────┬─────────┘
+                    ↓
+             💡 Business Insights
+
+
 
 #✅Week 1: Data Cleaning & Preprocessing
 
