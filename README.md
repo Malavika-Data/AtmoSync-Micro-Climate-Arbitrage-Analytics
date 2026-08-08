@@ -698,7 +698,25 @@ Future development of AtmoSync can include:
 - 
 - Integration with live logistics and shipment data
 
-- 
+## ⚠️ Risk Analysis Framework
+
+  🌡 Temperature
+💧 Humidity
+⭐ Quality Score
+📦 Commodity
+        ↓
+   Risk Analysis
+        ↓
+┌─────────────────────┐
+│     Risk Status     │
+├─────────────────────┤
+│ 🟢 Normal           │
+│ 🟡 Watch            │
+│ 🟠 At-Risk          │
+│ 🔴 Critical         │
+└─────────────────────┘
+        ↓
+⚠️ Monitoring & Business Decision
 
 
 
